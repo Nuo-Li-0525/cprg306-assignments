@@ -48,7 +48,7 @@ export default function NewItem() {
           </button>
           <button
             type="submit"
-            className="w-16 bg-rose-500 text-white font-semibold rounded-lg shadow-md hover:bg-rose-700 focus:outline-none focus:ring-2 disabled:bg-gray-400 focus:ring-rose-400 focus:ring-opacity-75 ml-1"
+            className="w-16 bg-rose-500 text-white font-semibold rounded-lg shadow-md hover:bg-rose-700 focus:outline-none focus:ring-2 focus:ring-rose-400 focus:ring-opacity-75 ml-1"
           >
             Submit
           </button>
